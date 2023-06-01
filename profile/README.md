@@ -10,7 +10,7 @@ Galdappagos es una aplicación descentralizada (DApp) que utiliza tecnología bl
 ## Repositorios
 - [smart-contracts](https://github.com/Ehterium-Challenge-Team-11/smart-contracts): Repositorio que contiene los contratos inteligentes de Galdappagos.
 - Galdappagos-Backend: Repositorio que contiene el código fuente del backend de Galdappagos.
-- Galdappagos-Frontend: Repositorio que contiene el código fuente del frontend de Galdappagos.
+- [interface](https://github.com/Ehterium-Challenge-Team-11/interface): Repositorio que contiene el código fuente del frontend de Galdappagos.
 
 ## Equipo
 - 👨‍💻 Alvaro Armijos
